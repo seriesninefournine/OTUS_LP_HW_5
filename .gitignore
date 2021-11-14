@@ -1,0 +1,4 @@
+vagrant/rgloader/loader.rb
+.vagrant/
+startup_script_server_kerberos.sh
+startup_script_client_kerberos.sh
